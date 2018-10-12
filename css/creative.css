@@ -167,8 +167,12 @@ body {
 }
 
 .lightBlack {
-  background-color: silver;
   padding: 2rem 0;
+}
+
+.spacer {
+  text-align: center;
+  padding-top: 10px;
 }
 
 .parallax {
